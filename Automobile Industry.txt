@@ -1,0 +1,22 @@
+Abundance of hydrogen in rubber's molecular chain make it perfectr to be examined by MRI.
+If an amorphous material like body can be examined by MRI, then rubber also can be examined by MRI.
+In automobile and in various fields, rubber is the heart for many parts.
+Using MRI we can examine whether rubber under use is having the proper density in the required areas.
+It is also possible to find internal cracks using MRI. This will not only give accurate results.
+It also gives density changes. This will help us to find where the stress accumulates. This can lead us to new 
+methods where we can measure the change in the rubber parts spontaneously. 
+
+In automobile industry some parts will go under test for 1000 cycles/hits . Using MRI we can reduce this 
+cycles count. We can examine the rubber part after 500 cycles for its internal cracks. We also can check for internal 
+damage in the rubber parts at any time between these cycles or at the end of these cycles.
+
+Usine some stress/starin related theories and some other theories like FiniteElementMethod we can bring this into
+ much more advanced measuing technique. 
+
+This can be extended to scan all the other available non-ferro magnetic tools, thereby we can get 3-d measurements.
+
+This will be very useful in crash testing. Steel model can't be used in order to use MRI testing.So a car must be
+made with non-ferrous materials but sistically,dynamically it should behave like original. make a rash testing on this one.
+Then examine it using MRI , then we will get the areas which got the damage. This will help in making the good design.
+
+The same can be extended to glass,plastic materials.
